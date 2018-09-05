@@ -1,0 +1,5 @@
+c:\users\tarikul\documents\visual studio 2012\Projects\MMS\MMS\bin\MMS.dll
+c:\users\tarikul\documents\visual studio 2012\Projects\MMS\MMS\bin\MMS.pdb
+c:\users\tarikul\documents\visual studio 2012\Projects\MMS\MMS\obj\Debug\MMS.csprojResolveAssemblyReference.cache
+c:\users\tarikul\documents\visual studio 2012\Projects\MMS\MMS\obj\Debug\MMS.dll
+c:\users\tarikul\documents\visual studio 2012\Projects\MMS\MMS\obj\Debug\MMS.pdb
